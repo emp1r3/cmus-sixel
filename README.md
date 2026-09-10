@@ -16,5 +16,5 @@ cmus-remote -C "set status_display_program=~/.config/cmus/cmus-sixel.sh"
 ### Bonus
 you can also run the script standalone in a different terminal to print the current playing song album cover.
 ```sh
-sh cmus-sixel.sh
+sh cmus-sixel.sh && echo
 ```

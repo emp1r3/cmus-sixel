@@ -9,5 +9,5 @@ album art in cmus with terminals that support sixel graphics which most do even 
 ### Install
 ```sh
 cp cmus-sixel.sh ~/.config/cmus/
-cmus-remote -C "set status_display_program=~/.config/cmus/cmus_sixel.sh"
+cmus-remote -C "set status_display_program=~/.config/cmus/cmus-sixel.sh"
 ```

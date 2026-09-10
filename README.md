@@ -10,6 +10,7 @@ it is minimal and posix compliant and easy to use. have fun xD
 ### Install
 ```sh
 cp cmus-sixel.sh ~/.config/cmus/
+chmod +x ~/.config/cmus/cmus-sixel.sh
 cmus-remote -C "set status_display_program=~/.config/cmus/cmus-sixel.sh"
 ```
 ### Bonus
